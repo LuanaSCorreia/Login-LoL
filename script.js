@@ -10,3 +10,10 @@ function handleChange(){
 
 input1.addEventListener('input', handleChange)
 input2.addEventListener('input', handleChange)
+
+let site = document.querySelector('.seta')
+function clicar(){
+  if (btn.style.background='#FF002E'){
+    window.location.href="https://www.leagueoflegends.com/pt-br/"
+  }
+}
