@@ -32,7 +32,7 @@ span {
 }
 
 span img {
-    width: 1.3vw;
+    width: 1.2vw;
 }
 
 span button {
@@ -112,7 +112,7 @@ body{
  left: 20vw;
  background-color:white;
  width: 65vw;
- height: 80vh;
+ height: 50%;
 }
 
 input{
@@ -131,6 +131,10 @@ span img{
 span button {
     width: 9vw;
     height: 3vw;
+}
+
+.login{
+    width: 30vw;
 }
 
 }
