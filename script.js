@@ -2,7 +2,7 @@ let [input1, input2] = document.querySelectorAll('input')
 let btn = document.querySelector(".seta")
 
 function handleChange(){
-    if(input1.value="E" && input2.value.length >= 8){
+    if(input1.value && input2.value.length >= 8){
       btn.style.background= '#FF002E' 
       btn.disabled = ""
     }else{

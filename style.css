@@ -38,7 +38,7 @@ span img {
 span button {
     margin: 0.3vw;
     width: 4vw;
-    height: 1.8vw;
+    height: 1.9vw;
     border: none;
     border-radius: 8%;
 }
@@ -61,7 +61,7 @@ span button {
     align-items: center;
     justify-content: flex-start;
     height: 3vw;
-    font-size: 1vw;
+    font-size: 1.2vw;
 }
 
 #login {
@@ -137,4 +137,7 @@ span button {
     width: 30vw;
 }
 
+.logo{
+    width: 20vw;
+}
 }
