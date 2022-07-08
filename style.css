@@ -101,6 +101,8 @@ body{
     background-size: cover;
     width: 100vw;
     height: 100vh;
+    display: grid;
+    place-items: center;
 } 
 
 .box-two{
@@ -108,36 +110,49 @@ body{
 }
 
 .box-one{
- position: absolute;
- left: 20vw;
  background-color:white;
- width: 65vw;
- height: 50%;
-}
-
-input{
-    width: 30vw;
-    height: 5vw;
-}
-
-span{
-    width:30vw ;
-}
-
-span img{
-    width: 2.7vw;
-}
-
-span button {
-    width: 9vw;
-    height: 3vw;
-}
-
-.login{
-    width: 30vw;
+ width: 85vw;
+ height: 90vh;
 }
 
 .logo{
-    width: 20vw;
+    width: 60vw;
 }
+
+input{
+    width: 50vw;
+    height: 12vw;
+}
+
+span{
+    width:50vw ;
+}
+
+span img{
+    width: 4vw;
+}
+
+span button {
+    width: 31%;
+    height: 6vw;
+}
+
+.login{
+    width: 50vw;
+    font-size: 4vw;
+}
+
+#login{
+    width: 5vw;
+}
+
+.seta{
+    width: 9vw;
+    height: 9vw;
+}
+
+a{
+    font-size:3vw ;
+}
+
 }
