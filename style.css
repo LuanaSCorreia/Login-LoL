@@ -136,13 +136,13 @@ span img{
 
 span button {
     width: 31%;
-    height: 8.5vw;
+    height: 9.5vw;
 }
 
 .login{
-    width: 65vw;
+    width: 50vw;
     font-size: 4vw;
-    padding-right: 36vw;
+    margin-right: 20vw;
 }
 
 #login{
@@ -150,8 +150,8 @@ span button {
 }
 
 .seta{
-    width: 11vw;
-    height: 11vw;
+    width: 12vw;
+    height: 12vw;
 }
 
 .seta img{
